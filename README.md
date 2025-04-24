@@ -60,9 +60,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ---
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se livre para abrir **issues** ou **pull requests** com sugestões, melhorias ou correções.
 
 ---
 
