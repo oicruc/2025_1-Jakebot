@@ -107,5 +107,5 @@ Frameworks são **estruturas de desenvolvimento reutilizáveis**, compostas por 
 
 ## Referências Sugeridas
 
-- https://www.youtube.com/playlist?list=PLX0VJrazYICCC2a_Ab-sZwLn_LIO8gc4T
+- [O que é uma arquitetura de software? - YouTube](https://youtube.com/playlist?list=PLX0VJrazYICCC2a_Ab-sZwLn_LIO8gc4T&si=u5KLfSUoHoVn5SMU)
   - O link acima leva a uma playlist no YouTube contendo 6 vídeos de até 4 minutos explicando conceitos de **Arquitetura de Software**
