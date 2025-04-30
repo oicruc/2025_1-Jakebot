@@ -1,5 +1,5 @@
 # Story mapping :books:
-## o que é story mapping?
+## 📌 o que é story mapping?
   O story Mapping (ou "Story Map") é uma técnica de requisitos de software feito para 
 ajudar na ***visualização de um fluxo de aplicação focando ponto de vista de um usuário***. 
 Simplificando ainda mais, este método agil nada mais é que **uma grande tela onde colocamos post-its** 
