@@ -44,7 +44,7 @@ O story mapping é uma forma simples e rápida de quebrar o projeto em "pedaços
 ![foto de programadores juntos](https://corporate-assets.lucid.co/spark/3c1e8ceb-0cb2-4683-86d6-bd08e80cbafe.png)
 
 ## ✍️ exemplo de story mapping
-aqui temos um exemplo de um ***story mapping***, em que o roxo representa o Big story, o lilaz representa o backbone e o amarelo representa asatividades e épicos, este exemplo específico não tem diferença entre as atividades de maior e menor prioridades.
+aqui temos um exemplo de um ***story mapping***, em que o roxo representa o Big story, o lilaz representa o backbone e o amarelo representa as atividades e épicos, este exemplo específico não tem diferença entre as atividades de maior e menor prioridades.
 
 
 ![aqui temos um exemplo de ***story mapping***, parece que seu computador/celular não pode ler](https://pm3.com.br/wp-content/uploads/2020/12/SMxD4MhSIaPA3dlVf6XG_usm1-1024x579.png)
