@@ -37,7 +37,7 @@ nós podemos dividir as duas prioridades de várias formas diferntes, mas as que
 * usando uma limha horizontal que divida os dois tipos de tarefas 
 
 ## exemplo de story mapping
-(este exemplo específico não tem deiferença entre as atividades de maior e menor prioridades)
+(este exemplo específico não tem diferença entre as atividades de maior e menor prioridades)
 ![aqui temos um exemplo de ***story mapping***, parece que seu computador/celular não pode ler](https://pm3.com.br/wp-content/uploads/2020/12/SMxD4MhSIaPA3dlVf6XG_usm1-1024x579.png)
 
 ## vídeo
