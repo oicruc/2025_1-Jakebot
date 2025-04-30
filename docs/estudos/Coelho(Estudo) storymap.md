@@ -41,4 +41,6 @@ nós podemos dividir as duas prioridades de várias formas diferntes, mas as que
 ![aqui temos um exemplo de ***story mapping***, parece que seu computador/celular não pode ler](https://pm3.com.br/wp-content/uploads/2020/12/SMxD4MhSIaPA3dlVf6XG_usm1-1024x579.png)
 
 ## vídeo
-[aqui nós temos um vídeo em inglês explicando um pouco mais e dando um ótimo exemplo tambêm](https://www.youtube.com/watch?v=YumNf61xn5E)
+[User Story Mapping - helping Agile Product Owners manage their product backlogs](https://www.youtube.com/watch?v=YumNf61xn5E)
+
+aqui em cima nós temos um vídeo de 20 minutos em inglês explicando um pouco mais sobre story mapping e dando um ótimo exemplo tambêm
