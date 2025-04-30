@@ -37,7 +37,7 @@ nós podemos dividir as duas prioridades de várias formas diferntes, mas as que
 * usando uma limha horizontal que divida os dois tipos de tarefas
 
 ## benefícios de usar o story mapping
-O story mapping é uma forma simples e rápida de quebrar o projeto em "pedaços menores" podendo ser usado para dividir as sprints entre os programadores; estimar, priorizar as tarefas a serem feitas e otimizar o tempo de programação diminuindo os gargalos e 
+O story mapping é uma forma simples e rápida de quebrar o projeto em "pedaços menores" podendo ser usado para dividir as sprints entre os programadores; estimar, priorizar as tarefas a serem feitas e otimizar o tempo de programação diminuindo os gargalos entre os programadores.
 
 
 ## exemplo de story mapping
