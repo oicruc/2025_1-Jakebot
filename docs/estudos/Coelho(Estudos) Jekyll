@@ -1,0 +1,29 @@
+# Estudo sobre Jekyll
+
+Este documento tem como objetivo fornecer uma visão geral sobre Arquitetura de Software, servindo como material de apoio para os integrantes do grupo no contexto da disciplina.
+
+O resumo serve como ponto de partida para aprofundar os estudos conforme o projeto avança, portanto, pode ser modificado.
+
+# O que é o Jekyll ? 
+
+Jekyll é um gerador de sites estáticos escrito em Ruby. Ele transforma arquivos Markdown, HTML e dados estruturados (como YAML ou JSON) em um site completo e leve, ideal para blogs, portfólios e páginas pessoais.
+
+# 🔧 Como funciona?
+
+O Jekyll lê os arquivos em uma pasta chamada _posts, _layouts, _includes, entre outras.
+
+Converte conteúdo Markdown em HTML usando layouts e templates.
+
+Gera um site estático que pode ser hospedado em qualquer servidor (inclusive gratuitamente no GitHub Pages).
+
+# 🧱 Principais Recursos
+
+Templates reutilizáveis com o sistema de layouts.
+
+Markdown nativo para escrever posts e páginas facilmente.
+
+Front matter em YAML para definir metadados em cada arquivo.
+
+Plugins e temas para personalização.
+
+Integração direta com GitHub Pages, sem precisar de servidor backend.
