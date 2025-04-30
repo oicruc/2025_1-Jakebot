@@ -34,7 +34,11 @@ Além disso, organize as histórias em uma sequência lógica e que seja possív
   
 nós podemos dividir as duas prioridades de várias formas diferntes, mas as que eu mais recomendo são:
 * usando cores
-* usando uma limha horizontal que divida os dois tipos de tarefas 
+* usando uma limha horizontal que divida os dois tipos de tarefas
+
+## benefícios de usar o story mapping
+O story mapping é uma forma simples e rápida de quebrar o projeto em "pedaços menores" podendo ser usado para dividir as sprints entre os programadores; estimar, priorizar as tarefas a serem feitas e otimizar o tempo de programação diminuindo os gargalos e 
+
 
 ## exemplo de story mapping
 (este exemplo específico não tem diferença entre as atividades de maior e menor prioridades)
@@ -44,3 +48,9 @@ nós podemos dividir as duas prioridades de várias formas diferntes, mas as que
 [User Story Mapping - helping Agile Product Owners manage their product backlogs](https://www.youtube.com/watch?v=YumNf61xn5E)
 
 aqui em cima nós temos um vídeo de 20 minutos em inglês explicando um pouco mais sobre story mapping e dando um ótimo exemplo tambêm
+
+
+
+
+
+    
