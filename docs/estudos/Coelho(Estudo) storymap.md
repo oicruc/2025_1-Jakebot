@@ -6,7 +6,7 @@ Simplificando ainda mais, este método agil nada mais é que **uma grande tela o
 mostrando as **features** que podemos colocar no nosso futuro software. Colocando em cores diferentes 
 aquelas funcionalidades.
 
-## As estruturas de uma story mapping
+## 🧱 As estruturas de uma story mapping
 
 As estruturas de uma story mapping normalmente são divididas entre cores diferentes e colocando as de mesmo tipo horizontalmente, comparadas as de outros tipos.
 * ***"Big story"***
