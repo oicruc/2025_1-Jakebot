@@ -4,14 +4,17 @@
 ajudar na ***visualização de um fluxo de aplicação focando ponto de vista de um usuário***. 
 Simplificando ainda mais, este método agil nada mais é que **uma grande tela onde colocamos post-its** 
 mostrando as **features** que podemos colocar no nosso futuro software. Colocando em cores diferentes 
-aquelas funcionalidades que são:
+aquelas funcionalidades.
+
+## As estruturas de uma story mapping
+
+As estruturas de uma story mapping normalmente são divididas entre cores diferentes e colocando as de mesmo tipo horizontalmente, comparadas as de outros tipos.
 * ***"Big story"***
   
-é um fluxo que conta a história da interação dos seus usuários com o seu produto.
+é um fluxo que conta a história da interação dos seus usuários com o seu produto. Normalmente são colocadas em cima de todas as outros tipos.
 * ***"backbone"***
   
-é a estrutura que será a base de seu mapeamento. Ele é concebido de forma horizontal e segue uma sequência de 
-atividades na jornada do usuário durante a utilização do seu produto, que será feito por meio de “atividades” e “épicos”.
+Normalmente é colocada em baixo das *big storys*,a backbone é a estrutura que será a base de seu mapeamento. Ele é concebido de forma horizontal e segue uma sequência de atividades na jornada do usuário durante a utilização do seu produto, que será feito por meio de “atividades” e “épicos”. 
 * ***"atividades/épicos"***
 
 Com base na criação do backbone, cria-se todas as histórias relacionadas a cada épico descrito. Nesse momento, 
@@ -38,7 +41,7 @@ nós podemos dividir as duas prioridades de várias formas diferntes, mas as que
 
 ## benefícios de usar o story mapping
 O story mapping é uma forma simples e rápida de quebrar o projeto em "pedaços menores" podendo ser usado para dividir as sprints entre os programadores; estimar, priorizar as tarefas a serem feitas e otimizar o tempo de programação diminuindo os gargalos entre os programadores.
-
+![foto de programadores juntos](https://corporate-assets.lucid.co/spark/3c1e8ceb-0cb2-4683-86d6-bd08e80cbafe.png)
 
 ## exemplo de story mapping
 (este exemplo específico não tem diferença entre as atividades de maior e menor prioridades)
