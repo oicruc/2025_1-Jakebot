@@ -30,7 +30,7 @@ Além disso, organize as histórias em uma sequência lógica e que seja possív
      
     Já estas são as atividades que podemos deixar para caso 
     tenhamos tempo e se não implementadas não acarreteria 
-    numa falta tão grande assim. Um exemplo seria as features opcionais
+    numa falta tão grande assim, um exemplo seria as features opcionais.
   
 nós podemos dividir as duas prioridades de várias formas diferntes, mas as que eu mais recomendo são:
 * usando cores
