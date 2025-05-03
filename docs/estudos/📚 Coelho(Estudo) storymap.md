@@ -53,9 +53,3 @@ aqui temos um exemplo de um ***story mapping***, em que o roxo representa o Big 
 [User Story Mapping - helping Agile Product Owners manage their product backlogs](https://www.youtube.com/watch?v=YumNf61xn5E)
 
 aqui em cima nós temos um vídeo de 20 minutos em inglês explicando um pouco mais sobre story mapping e dando um ótimo exemplo tambêm
-
-
-
-
-
-    
