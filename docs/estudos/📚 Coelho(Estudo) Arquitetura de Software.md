@@ -2,7 +2,7 @@
 
 Este documento tem como objetivo fornecer uma visão geral sobre **Arquitetura de Software**, servindo como material de apoio para os integrantes do grupo no contexto da disciplina.
 
-O resumo serve como ponto de partida para aprofundar os estudos conforme o projeto avança, portanto, pode ser modificado.
+> O resumo serve como ponto de partida para aprofundar os estudos conforme o projeto avança, portanto, pode ser modificado.
 
 ## O que é Arquitetura de Software?
 
