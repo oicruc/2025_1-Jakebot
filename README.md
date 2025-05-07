@@ -35,7 +35,7 @@ Projeto desenvolvido como parte da disciplina **Métodos e Desenvolvimento de So
 ## 💻 Tecnologias Utilizadas
 
 - Python
-- Flask
+- Django
 - HTML/CSS (Jekyll)
 - JavaScript
 - GraphQL
