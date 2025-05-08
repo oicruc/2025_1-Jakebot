@@ -66,3 +66,15 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 📬 Contato
 
 Em caso de dúvidas ou sugestões, entre em contato com os membros da equipe ou abra uma issue neste repositório.
+
+## Equipe 
+
+| Nome                | GitHub        |
+|---------------------|-------------------------|
+|Eduardo Ribeiro      | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier) |
+|Danilo Barros        | [Danilo Barros](https://github.com/auslogyc) |
+|Lucas Chaves         | [LucasItacaramby](https://github.com/LucasItacaramby) |
+|Artur Alves          | [ArturAlves](https://github.com/arturalvesfn) |
+|Davi Muniz           | [oicruc](https://github.com/oicruc) |
+|Eduardo Lopes        | [elopesm](https://github.com/elopesm) |
+
