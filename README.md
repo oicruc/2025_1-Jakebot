@@ -67,7 +67,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 Em caso de dúvidas ou sugestões, entre em contato com os membros da equipe ou abra uma issue neste repositório.
 
-## Equipe 
+## 👷 Equipe 
 
 | Nome                | GitHub        |
 |---------------------|-------------------------|
