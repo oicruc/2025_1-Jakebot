@@ -78,4 +78,4 @@ Em caso de dúvidas ou sugestões, entre em contato com os membros da equipe ou 
 |Artur Alves          | [ArturAlves](https://github.com/arturalvesfn) |
 |Davi Muniz           | [oicruc](https://github.com/oicruc) |
 |Eduardo Lopes        | [elopesm](https://github.com/elopesm) |
-
+|Artur Guanaes        | [ArturGuanaes](https://github.com/ArturGuanaes) |
