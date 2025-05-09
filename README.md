@@ -59,7 +59,8 @@ Projeto desenvolvido como parte da disciplina **Métodos e Desenvolvimento de So
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
-
+## Links Úteis
+-https://www.figma.com/design/gUoQsoyBltFvDU5WW8S7al/An%C3%A1lise-De-Sentimentos---Brasil-Participativo?node-id=0-1&t=vrfKwunt61Wf98st-1
 
 ---
 
