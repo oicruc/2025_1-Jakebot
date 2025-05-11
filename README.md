@@ -35,7 +35,7 @@ Projeto desenvolvido como parte da disciplina **Métodos e Desenvolvimento de So
 ## 💻 Tecnologias Utilizadas
 
 - Python
-- Flask
+- Django
 - HTML/CSS (Jekyll)
 - JavaScript
 - GraphQL
@@ -59,10 +59,25 @@ Projeto desenvolvido como parte da disciplina **Métodos e Desenvolvimento de So
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
+## 🔗 Links Úteis
+-[Figma-Protótipo](https://www.figma.com/design/gUoQsoyBltFvDU5WW8S7al/An%C3%A1lise-De-Sentimentos---Brasil-Participativo?node-id=0-1&t=vrfKwunt61Wf98st-1)
 
+-[Link Do Miro](https://miro.com/welcomeonboard/cm43UVNlWFBWVmZ0c3ZKZTJvamtMNDZjUk1saU9DYldkNm0zbmNNZi9rY20wY0NxaUxvcjd3Ui94UHplTnFGMmNGN1pEaWI3cFg5ZDM3TUI0RDJjbE94akNhV05KdHZ0dm1uc0trRDVaUFU2ZEp0aDFydWVRNkdkZjJVVkY3bXhBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=86645644775).
 
 ---
 
 ## 📬 Contato
 
 Em caso de dúvidas ou sugestões, entre em contato com os membros da equipe ou abra uma issue neste repositório.
+
+## 👷 Equipe 
+
+| Nome                | GitHub        |
+|---------------------|-------------------------|
+|Eduardo Ribeiro      | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier) |
+|Danilo Barros        | [Danilo Barros](https://github.com/auslogyc) |
+|Lucas Chaves         | [LucasItacaramby](https://github.com/LucasItacaramby) |
+|Artur Alves          | [ArturAlves](https://github.com/arturalvesfn) |
+|Davi Muniz           | [oicruc](https://github.com/oicruc) |
+|Eduardo Lopes        | [elopesm](https://github.com/elopesm) |
+|Artur Guanaes        | [ArturGuanaes](https://github.com/ArturGuanaes) |
