@@ -43,6 +43,8 @@ jobs:
     #     # Se for Django: python manage.py test
     #     # Se for pytest: pytest
     #     echo "Nenhum passo de teste configurado ainda."
+    - name: Check Assets Directory # <-- NOVO PASSO
+      run: ls -la backend/bots/assets/
 
     - name: Run Bot Script
       run: |
