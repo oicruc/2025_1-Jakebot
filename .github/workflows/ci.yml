@@ -1,3 +1,4 @@
+# Re-trigger CI
 name: CI Pipeline Jakebot
 
 on:
@@ -30,11 +31,11 @@ jobs:
 
     - name: Lint with flake8
       run: |
-        pip install flake8
+       pip install flake8
         # Stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics --exclude=venv
         # Exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics --exclude=venv
 
     # Descomente e ajuste esta seção se você tiver testes automatizados
     # - name: Run Tests
@@ -42,10 +43,10 @@ jobs:
     #     # Se for Django: python manage.py test
     #     # Se for pytest: pytest
     #     echo "Nenhum passo de teste configurado ainda."
+    - name: Check Assets Directory # <-- NOVO PASSO
+      run: ls -la backend/bots/assets/
 
     - name: Run Bot Script
       run: |
-        # Execute o script principal do seu bot
-        # Certifique-se de que o caminho está correto
-        python backend/bots/ler_csv.py
-        # Adicione aqui quaisquer outras etapas necessárias para o bot
+        # Execute o script principal passando o caminho do CSV como argumento
+        python backend/bots/ler_csv.py backend/bots/assets/Comentários_por_ID.csv
