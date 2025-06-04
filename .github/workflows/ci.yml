@@ -46,7 +46,5 @@ jobs:
 
     - name: Run Bot Script
       run: |
-        # Execute o script principal do seu bot
-        # Certifique-se de que o caminho está correto
-        python backend/bots/ler_csv.py
-        # Adicione aqui quaisquer outras etapas necessárias para o bot
+        # Execute o script principal passando o caminho do CSV como argumento
+        python backend/bots/ler_csv.py backend/bots/assets/Comentários_por_ID.json
